@@ -41,4 +41,3 @@ st.text_input(label="",placeholder="Add new todo...",
 
 # to run it, go to terminal, and input:
 # streamlit run web.py
-
